@@ -17,14 +17,14 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. In magnam libero fuga r
 * Adipisicing elit
 * In magam levero
 
-### Code example
+### Code example:
 
 ```
 function (a, b) {
     return a + b;
 }
 ```
-### Languages
+### Languages:
 
 * Russian - Native
 * English - A1
